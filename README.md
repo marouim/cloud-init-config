@@ -1,2 +1,2 @@
-#Cloud-init simple howto
+# Cloud-init simple howto
 
